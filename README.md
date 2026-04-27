@@ -28,7 +28,7 @@ Repository นี้รวบรวมไฟล์แบบฝึกหัด (L
 
 ## 🚀 วิธีการรันโปรเจกต์
 
-1. **Clone Repository** ลงมาที่เครื่องคอมพิวเตอร์ของคุณ:
+**Clone Repository** ลงมาที่เครื่องคอมพิวเตอร์ของคุณ:
    ```bash
    git clone [https://github.com/gatunyus/Frontend_Day1_HTML.git](https://github.com/gatunyus/Frontend_Day1_HTML.git)
    ```
